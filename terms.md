@@ -1,7 +1,3 @@
----
-lang: en
----
-
 # Translator Pro: Terms of Use
 
 _Last updated: 25 October 2026_

@@ -1,6 +1,4 @@
----
-lang: ms
----
+<div lang="ms" markdown="1">
 
 # Translator Pro: Dasar Privasi
 
@@ -113,3 +111,5 @@ Jika dasar ini berubah, versi baharu akan disiarkan di sini dengan tarikh baharu
 ## Hubungi
 
 jeffrey_tan61@hotmail.com
+
+</div>

@@ -1,7 +1,3 @@
----
-lang: en
----
-
 # Translator Pro: Privacy Policy
 
 _Last updated: 25 October 2026_ · [Bahasa Melayu](privacy-ms)
