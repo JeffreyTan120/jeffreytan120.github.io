@@ -5,7 +5,7 @@
 _Kemas kini terakhir: 25 Oktober 2026_ · [English](privacy)
 
 
-Translator Pro ("aplikasi") dibuat oleh Jeffrey Tan Wai Hock, pembangun individu di Malaysia ("kami"), yang bertanggungjawab ke atas dasar ini. Hubungi: jeffrey_tan61@hotmail.com.
+Translator Pro ("aplikasi") dibuat oleh Jeffrey Tan Wai Hock, pembangun individu di Malaysia ("kami"), yang bertanggungjawab ke atas dasar ini. Hubungi: cosmicbunny880@gmail.com.
 
 Ringkasnya: **aplikasi menterjemah di telefon anda, tidak mempunyai akaun, dan tidak menghantar apa-apa kepada kami:
 bukan teks, suara, foto, skrin atau mesej anda.** Kami tidak mempunyai pelayan yang menerimanya. Aplikasi menunjukkan
@@ -110,6 +110,6 @@ Jika dasar ini berubah, versi baharu akan disiarkan di sini dengan tarikh baharu
 
 ## Hubungi
 
-jeffrey_tan61@hotmail.com
+cosmicbunny880@gmail.com
 
 </div>

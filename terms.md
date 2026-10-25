@@ -66,4 +66,4 @@ you accept it. These terms are governed by the laws of Malaysia.
 
 ## 7. Contact
 
-jeffrey_tan61@hotmail.com
+cosmicbunny880@gmail.com

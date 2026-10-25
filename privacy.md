@@ -2,7 +2,7 @@
 
 _Last updated: 25 October 2026_ · [Bahasa Melayu](privacy-ms)
 
-Translator Pro ("the app") is made by Jeffrey Tan Wai Hock, an individual developer in Malaysia ("we", "us"), who is responsible for this policy. Contact: jeffrey_tan61@hotmail.com.
+Translator Pro ("the app") is made by Jeffrey Tan Wai Hock, an individual developer in Malaysia ("we", "us"), who is responsible for this policy. Contact: cosmicbunny880@gmail.com.
 
 In short: **the app translates on your phone, has no accounts, and sends us nothing: not your text, voice, photos,
 screen or messages.** We have no servers that receive them. The app shows ads from Google, and Google receives some
@@ -98,4 +98,4 @@ If this policy changes, the new version will be posted here with a new date.
 
 ## Contact
 
-jeffrey_tan61@hotmail.com
+cosmicbunny880@gmail.com
