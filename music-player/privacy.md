@@ -54,7 +54,7 @@ With the web page (sync in a browser), the page and the phone meet for a few sec
 
 ## Purchases and ratings
 
-Music Player Plus is bought through Google Play. Google handles the payment; the app only learns whether Plus is owned. If you rate the app, the rating goes to Google Play, not to us.
+Music Player Plus is bought through Google Play, once or as a subscription. Google handles the payment; the app only learns whether Plus is owned and, for a subscription, whether it is still running. If you rate the app, the rating goes to Google Play, not to us.
 
 
 ## Children

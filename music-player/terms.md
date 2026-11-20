@@ -29,7 +29,12 @@ Tracks in the Audius tab belong to their artists and are offered by Audius under
 
 ## Music Player Plus
 
-Music Player Plus is a one-time purchase through Google Play that unlocks more themes, visualizers and hosting Listen together. It is tied to your Google account and can be restored there. Payments, refunds and taxes follow Google Play's terms and refund policy.
+Music Player Plus unlocks more themes, visualizers, share card layouts and hosting Listen together. It is sold through Google Play as a monthly or yearly subscription, or once as Lifetime. The price for your country is shown before you buy. Plus is tied to your Google account and can be restored there.
+
+- Subscriptions renew automatically at the end of each month or year, at the price shown, until you cancel in Google Play (Settings → Manage subscription, or Play Store → Payments & subscriptions). After you cancel, Plus stays until the end of the period you paid for.
+- If we ever change a subscription's price, Google Play tells you first and, where the law or Google Play requires it, asks you to accept the new price before it applies.
+- Lifetime is paid once and is not a subscription. Buying it does not cancel a subscription you already have; cancel that in Google Play.
+- Payments, refunds and taxes follow Google Play's terms and refund policy.
 
 
 ## Other software
